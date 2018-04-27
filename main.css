@@ -2,10 +2,9 @@
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Oxygen Mono', monospace;
-  background-color:  #000033;
+  background-color:#000033;
   color: white;
-}
-
+  
 p {
   font-family: 'Merriweather', serif;
 }
